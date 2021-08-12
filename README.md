@@ -8,6 +8,6 @@ In this folder you will find our analysis scripts for the project and a copy of 
 
 Feel free to use these materials to support your own analysis; if you do, please cite our paper using the information below.
 
-Conrad, C. and Newman, A. (2021). Measuring mind wandering during online lectures assessed with EEG. _Frontiers in Human Neuroscience, 14_, 14. 10.3389/fnhum.2021.697532.
+Conrad, C. and Newman, A. (2021). Measuring mind wandering during online lectures assessed with EEG. _Frontiers in Human Neuroscience, 14_, 10.3389/fnhum.2021.697532.
 
 If you have any questions about this script, please do not hesitate to reach out to Conrad either through Github or at my institutional email address.
